@@ -33,7 +33,11 @@ In late christian rome, 439,  magic of all kinds became then a capital offense a
 
 The decline of the empire meant no central control, cultural change, and mixtures with pre-christian culture. The Middle ages would then see elements of pagan culture mixed with christianity in daily life and even doctrine. Natural magic enjoys a bit of a favorable period in the middle ages and flourishes particularly as disciplines such as astrology and alchemy blossom. This favorable,fluid situation will change, at least from the point of doctrine, as St. Thomas Aquinas concludes that all magic is undoubtedly related to the intervention of evil spirits.
 
-## 
+## 12C and the rise of natural magic
+
+Isidore of seville (550-663) speaks of divisions in natural magic: Geomancy, Hydromancy, Aeromancy, Pyromancy.
+
+In the 13C Wiliam Arvogent (1180-1249), the patron saint of experimental sciences writes about astrology and alchemy.
 
 
 
