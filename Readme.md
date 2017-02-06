@@ -1,6 +1,6 @@
 # Magic in the Middle Ages
 
-Course notes from Coursera's University of Barcelona course available at https://www.coursera.org/learn/magic-middle-ages
+Fabio Arciniegas' course notes from Coursera's University of Barcelona course available at https://www.coursera.org/learn/magic-middle-ages
 
 Medieval European magic is a combination of Roman, Germanic, Judeo Christian and Islamic traditions.
 
@@ -35,9 +35,29 @@ The decline of the empire meant no central control, cultural change, and mixture
 
 ## 12C and the rise of natural magic
 
-Isidore of seville (550-663) speaks of divisions in natural magic: Geomancy, Hydromancy, Aeromancy, Pyromancy.
+During the early medieval times, natural magic enjoys a certain amount of freedom. Isidore of seville (550-663) speaks of divisions in natural magic: Geomancy, Hydromancy, Aeromancy, Pyromancy while Wiliam Arvogent (1180-1249), the patron saint of experimental sciences, writes about astrology and alchemy.
 
-In the 13C Wiliam Arvogent (1180-1249), the patron saint of experimental sciences writes about astrology and alchemy.
+With the Summa against the gentile , his work addressing the "errors" of non-christian beliefs Saint Thomas Aquinas(1225-1274) puts a practica theological end to the division of natural vs demonic. It is all *superstitio*. 
+
+In 1230 Inquisition starts. At the beginning this is not as evil as Torquemada and other typical figures we recognize today. The idea was to make _public inquisition_ rather than secret process and no appeal. Inquisitors such as Bernard Gui (from the Name of the Rose) were actually far more merciful than their fictional counterparts.
+
+## Persecution unleashed
+
+The inquisition starts officially on 1230 as a way for the holy church to penalize (and at least titularly regain the soul of) heretics. Note that in order to be a heretic you must be Christian. Muslims and Jews were not initially under the jurisdiction of the inquisition.  
+
+Although the initial request for information or _inquisitio_ was public and people were encourage to denounce evil-doers, it was followed by secret process and no appeal.
+
+Three interesting contrasts with public opinion regarding these trials are: (a) the majority of the initial accused were male and even priests who were accused of Necromancy, (b) the burning stake was really not the first option and in fact very careful deliberation did take place in many of these trials (a point already raised by GBS in his St Joan) and (c) that the accusations of sodomy, blood baths, and orgies were nothing new, in fact they had been the bread and butter of accusations at the begining of our era against a deviant and dangerous sect that would eventually change the world: Christianity.
+
+## Not so evil inquisitors
+
+Bernard de Gui, the inquisitor from the Name of the Rose, author of "Practica Inquisitionis Heretice Pravitatis" was a real life character who lived at the beginning of the 14th century. He took the post of Inquisitor of Toulouse in 1307, which he exercised for 18 years. During his tenure de Gui tried 600 people but only sent 10% to burn at the stake.  His book was _the_ manual for the next generation of inquisitors.
+
+During the papacy of Alexander IV, clairvoyants and sorcerers were not brought before inquisitorial courts unless involved in heretical doctrise but under pope John XXII (~1320) the policy changed and everyone who made deals with or worshipped demons, modelled wax figures, desecrated the sacraments or divined the future were dealt with as heretics.
+
+## When demons spoke latin
+
+Necromancy at this point is almost exclusive to men. Nekros (dead body) + Manteia (prophecy, divination) requires complex and long incantations in latin. These incantations contain magic circles, conjurations, sacrifices, and are transmitted through books. Only clerics know how to read and write latin. Only wayward clerics can actually be Necromancers at this time.
 
 
 
