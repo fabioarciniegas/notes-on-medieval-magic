@@ -1,6 +1,3 @@
----
-title: Magic in the Middle Ages
----
 # Magic in the Middle Ages
 
 Fabio Arciniegas' course notes from Coursera's University of Barcelona course available at https://www.coursera.org/learn/magic-middle-ages
