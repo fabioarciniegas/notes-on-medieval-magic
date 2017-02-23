@@ -1,6 +1,5 @@
 ---
 title: Magic in the Middle Ages
-layout: post
 ---
 # Magic in the Middle Ages
 
