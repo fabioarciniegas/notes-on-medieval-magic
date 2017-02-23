@@ -1,3 +1,7 @@
+---
+title: Magic in the Middle Ages
+layout: post
+---
 # Magic in the Middle Ages
 
 Fabio Arciniegas' course notes from Coursera's University of Barcelona course available at https://www.coursera.org/learn/magic-middle-ages
@@ -58,6 +62,22 @@ During the papacy of Alexander IV, clairvoyants and sorcerers were not brought b
 ## When demons spoke latin
 
 Necromancy at this point is almost exclusive to men. Nekros (dead body) + Manteia (prophecy, divination) requires complex and long incantations in latin. These incantations contain magic circles, conjurations, sacrifices, and are transmitted through books. Only clerics know how to read and write latin. Only wayward clerics can actually be Necromancers at this time.
+
+
+# Jewish Magic
+
+The context of Judaism as a tradition living inside non-jewish states is an important one to keep in mind. The Jewish people in the near east lived under the Dhimma (agreement of tolerance of non-muslims in a muslim state). 
+
+The Rabbi as central figure of the religious and ethical education was the center of the aljama (jewish community) and in charge of the synagogue as house of study (bet midrash).
+
+All jewish children education is based on the Tanakh (Torah, Mishnah, Talmud) as a basis not only for religious study but shared legends, stories, literature. The basic study comprises 18 years. The higher above that the better, but that usually would take more talent and resources. 
+
+## Jewish idea of magic
+
+The usual division of natural vs demonic magic applies here in the sense that natural magic (herbs, good fortune cleansing rites, etc) are not forbidden and in fact form part of daily services offered by Mekashef (also women Mekashefa) to the community. The notion of dark magic aided by deamons of course was forbidden by the Tanakh.
+
+The Kabbalah, perhaps the most attractive and misunderstood part of the jewish tradition of magic has as its goal the understanding of God and His Creation through the enlightment that comes from reading the Torah. This is a Theosophical interpretation, where knowledge of God can be approximated by the spiritual ecstasy and direct intuition that comes from systematically approaching the holy text.
+
 
 
 
