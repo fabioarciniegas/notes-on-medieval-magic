@@ -74,7 +74,74 @@ The usual division of natural vs demonic magic applies here in the sense that na
 
 The Kabbalah, perhaps the most attractive and misunderstood part of the jewish tradition of magic has as its goal the understanding of God and His Creation through the enlightment that comes from reading the Torah. This is a Theosophical interpretation, where knowledge of God can be approximated by the spiritual ecstasy and direct intuition that comes from systematically approaching the holy text.
 
+Of course all of this is very distant from new age rebranding of Kabbalah and the mysteries of the sepher yetzirah were something one would attempt to _begin_ delving into after 40 years of Tanakh study. 
+
+# From Magic to Witchcraft
+
+Witches, Streghe, Hexen, Sorcieres, Bruxas. The image of the malefica that is fixed in the western mind takes form and hold in the 15C. 
+
+*The key mythologies of witchcraft are solidified in the 1400s. They consolidate elements and attributes of older mythological creatures, such as the Strigae, Lamiae, and Nightmare into a corporeal Witch which can fly, enter closed quarters, change shape, and indulge in infanticide.*
+
+Perhaps not causal, but certainly representative is the role of Vincent Ferrer, the dominican priest and confessor called the Angel of the Last Judgement, who had, along with his jewish conversion activities, preached against all forms of magic. Soon after Ferrer's impassioned speeches in 1410s the hunt for witches would begin in earnest.
+
+## The birth of the crime of Witchcraft
+
+Before 1420 the division between natural and maleficent magic was the main concept. An important emphasis occurs after the description by Ferrer and others such as Pope Alexander V (1409) of _sects_ of diviners and invokers of demons bent on the diabolical _collectivity_ and common worship of the devil: The crime of Witchcraft merges diabolism and maleficent magic.
+
+## The early witch mythologies
+
+As mentioned before, the Strigae, Lamie, and Nightmare are the key precursors. They are perceived now not as spiritual or diabolical ideas but as corporeal beings. 
+
+The notion of organization or evil group also gels into more tangible incarnations. For example the notion of the "good ladies" the Bonae Dominae, or Bonae Res, is prior to the 15C a somewhat abstract concept: nocturnal white lady figures capable of bringing both good or ill fortune, to be respected and feared by women of the house (leave them mirror and food). 
+
+In the 1400s the trials start talking of these lady meetings as actual gatherings and women such as Sibilla and Pierina from Milan are accussed and convicted of interactiving with a sort of fairy society, meet together to dance and sing, worship a female figure in front of which the name of God could not be uttered. This was called Il Gioco, "the game." 
+
+## Witchcraft trials
+
+Sibilla and Pierina were convicted and burned in Milan in 1390. Similar cases in Barcelona and elsewhere start popping up. 
+
+Trial by Iron: burn the hand, see how quickly it heals.
+
+Notice that the majority of these trials were not started by the church but by the people and tried also by local authorities. A typical example is 1477 witch hunt of Mont-rós. Plagued by deaths of children and cattle they claim witchcraft, who are arrested and prosecuted by local court.
+
+The mechanics are relatively simple: 
+ - the accusation
+ - followed by inquiries _inquisitio de vox et fama_ (not surprisingly the accused deny it)
+ - The examination of marks (evidence of belonging to the sect), usually on the shoulders or back
+ - Interlocutoria tormentorum. Interrogations but this time with the aid of judicial torture ( hanging by thumbs etc.) Naturally the confessions would happen here
+ - Sentencing
+ 
+Sample statement from 1471, Guillerma de Casala from the Pyrenean valley of Andorra, who after Interlocutoria tormentorum confesses she was introduced by another made Garreta and:
+
+__"That the aforesaid Garreta has made her go to the he-goat. Because the aforesaid Garreta anointed her under the armpits and told her to say: 'Go up leaf!' And by that she found herself out of the house with the aforesaid Garreta. 
+
+And so they went through the air to a mountain, whose name she doesn't remember, and there she saw a very big man named the Devil; and she saw around him 20 people, men and women, and some of them danced and others ate fruit. 
+
+And then the Devil took her and told her to kiss his hand and so she did. 
+
+And then she thinks that she kissed his buttocks and paid him homage and took him as her Lord, abjuring the Creator. And she promised him to do evil any time she could, and to never confess it, but to receive each year the Holy Communion instead. 
+
+And so, being interrogated, she said that after that, the Devil had carnal intercourse with her. Interrogated, she said that he had a very cold member."__
+
+The patterns in these confessions are telling of the common sources of the interrogators.
+
+## Medieval codification of the stereotype
+
+The characteristics mentioned (instant travel, transformation, infanticide, etc. once codified are repeated and amplified. Some examples include:
+
+ - Ambrosious de Vignate note on the prosecution of heresy (detailing the classics including intercourse with the devil)
+ - The Flagellum Maleficorum (1460) by Petrus Mamoris (added the ability to stir up thunder and hailstorms)
+ - The Formicarius (1468), by Johannes Nider which focuses on the very witch-like theme of infanticide
+ 
 
 
-Timeline:
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cgBGrm2h9Lk0FC_plkArb1nT1Lukre52uFZPMFiHdVs&font=Default&lang=en&initial_zoom=2&height=650' width='600' height='600' frameborder='0'></iframe>
+
+ 
+
+
+
+
+
+
+
+
