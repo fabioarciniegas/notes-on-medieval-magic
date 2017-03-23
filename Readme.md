@@ -127,12 +127,93 @@ The patterns in these confessions are telling of the common sources of the inter
 
 ## Medieval codification of the stereotype
 
-The characteristics mentioned (instant travel, transformation, infanticide, etc. once codified are repeated and amplified. Some examples include:
+The characteristics mentioned (instant travel, transformation, infanticide, etc.) once codified are repeated and amplified. Some examples include:
 
  - Ambrosious de Vignate note on the prosecution of heresy (detailing the classics including intercourse with the devil)
  - The Flagellum Maleficorum (1460) by Petrus Mamoris (added the ability to stir up thunder and hailstorms)
  - The Formicarius (1468), by Johannes Nider which focuses on the very witch-like theme of infanticide
  
+
+# Magic in Islam
+
+The division on Islam is slightly different. In the Muqaddima, Ibn Khaldun describes three degrees of magical ability:
+
+ - Siḥr, or magic proper, which is exerted by those capable of it through sheer mental power
+ - Ṭilasmāt, or talismans, which is exerted with the aid of the spheres and the elemetns, properties and numbers.
+ - Prestidigitation, which exercises its influence upon the powers of imagination
+ 
+Sihr can be executed by either prophets whose power comes from divine quality, or sorcerers deriving it from satanic forces. In this sense Islamic high and low magic roughly reconcile withthe traditional position between white and black or natural vs demonic magic.
+
+Talismans (tilasm) from the greek word Telesta, involves inscriptions with a general astrological significance, use as charms.
+
+Of course the division into three big categories is convenient and more direct than many classic sources. The classic example of variety is the 17 C Kashf al-zunun ("removal of doubts") which lists 14 disciplines under Sihr: divination, natural magic, properties of the Most Beautiful Names, of numbers, and of certain invocations, sympathetic magic, demoniacal conjurations, incantations, the evocations of spirits of corporeal beings, the invocation of the spirits of planets, phylacteries (amulets, talismans, philtres), the faculty of instantaneous disappearance from sight, artifices and fraud, the art of disclosing frauds, spells, and recourse to the properties of medicinal plants.
+
+The reception of the practitioners was also more nuanced than the simple binary of permitted or not by the q'ran. In fact beneficial sorcerers were well regarded and respected in their communities for their impact on the crops and other services. This is a nuance that continues in communities to this day.
+
+## The Science of Letters
+
+The kabbalah is not the only art of letters. Ilm al-huruf, or symiya is the art of diviniation and incantation through the arabic letters.
+
+The arabic alphabet is made only of consonants, so that the text is the flute and the reader the air that passes through it. This, coupled with the idea that the name of things is intrinsically tied to the true nature of things lends its character to the science to letters. There is a great deal of interpretation and experience in the correct approach to the science of words.
+
+7 letters are hot, 7 cold, 7 dry 7 moist. Letters of the alphabet are also used as numberals. The combination and composition of a thing is reflected on its name and the science of the balance is one of the main areas of this type of Sihr.
+
+al-asma al-husna, 99 names of god, are also an important preocupation and area of study.
+
+## Alchemy
+
+Not just argyropeia and chrysopeia (making of silver and gold respectively from baser substances). Al-kymiya also deals with refining salts, dyeing metals etc.
+
+The fundamental idea of elixir theory is that since a thing is characterized by its proportions, a change in proportions will yield a change in nature. Reducing or enhancing the proportion in an entity you can change its nature to approximate the proportions of say, gold.
+
+# Astrology and Geomancy
+
+Medieval astrology is the perennial example of knowledge between science and magic.  Of course there was opposition to the idea, all the way back to ptolomey. but figures as late (and as famous) as Galileo Galilei and Tycho Brahe operated under the assumption that astrology, the study of the influence of celestial bodies over sublunary creatures (humans included) was a serious pursuit.
+
+Influence of foreign elements in christian astrology are palpable including the lunar mansions, arabic terms for the brightest start in each segment of the sky, as well as many other items from World astrology dating back to zoroastrian millenialis, sassanian empire (last non-islamic persian from 13C) and cathartic astrology.
+
+The Lunaria were a series of texts advicing on the appropriate times for selling/buying etc based on the moon. Zodiologies were highly folkloric reinterpretations of zodiacal signs with biblical alegories. They would keep the interest alive in merovingians and carolingians until the influx of islamic astrology in the 8C would bring higher dimensions to the dame with complex calculations and charts.
+
+## Geomancy
+
+The practice of divination through sand (geo, earth) comes from arabic manuals where it is called ilm al-raml (Sand Science).
+
+```
+. .      .     . .    .       etc.
+. .     . .    . .   . .
+. .     . .    . .    .
+. .     . .     .    . .
+```
+
+the sixteen possible combinations of dots arranged in four rows of either one or two dots (4 bits) are called geomantic figures. Each given some meanings.
+
+The usual practice is the creation of a chart made of 15 or 16 positions in which figures are placed.  
+
+The first step is the random layout of four rows of dots, from which only one or two are left per row.
+
+Then the operation is repeated four times in order to obtain four figures that will be called 'the mothers'. These are responsible for the rest by means of derivations: the first derivation is a transposition which produces 'the daughters.' The second law is 'additions' they add (xor?) two figures to produce a third one. 
+
+Geomancy exhibits closed relationships with astrology. The positions in the chart are named houses and they are assigned typical roles or meaninings. 
+
+It is assumed that Geomancy entered Europe after the translation of Arabic Handbooks in the 12 C. It has traveled with colonization as far as madagascar and the western african coast, the caribbean and the east, specially to pakistan and iran. In all these places it is still practiced.
+
+---
+Fabio Arciniegas March 22, 2017 (22:57:25) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
