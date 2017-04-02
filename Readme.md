@@ -131,6 +131,7 @@ The characteristics mentioned (instant travel, transformation, infanticide, etc.
 
  - Ambrosious de Vignate note on the prosecution of heresy (detailing the classics including intercourse with the devil)
  - The Flagellum Maleficorum (1460) by Petrus Mamoris (added the ability to stir up thunder and hailstorms)
+ - Malleus Maleficarum (1487) reportedly by Wikipedia as the most popular and influential manual codifying the stereotype of witches. Note the female name
  - The Formicarius (1468), by Johannes Nider which focuses on the very witch-like theme of infanticide
  
 
